@@ -1,0 +1,15 @@
+
+data/raw/creditcard.csv
+.ipynb_checkpoints/
+.history/
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
