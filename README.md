@@ -1,6 +1,7 @@
 # 🔍 Detecção de Fraudes em Cartão de Crédito(NÃO FINALIZADO!)
 
 Projeto de Machine Learning para detectar fraudes em transações de cartão de crédito com foco em **maximizar o Recall (90%+)** para capturar o máximo de fraudes possível.
+OBS:Projeto com intuito de aprendizado em ML feito 100% sem "cópia e cola"
 
 ## 🎯 Objetivo
 - **Recall Alto**: Detectar 90%+ das fraudes (prioridade máxima)
